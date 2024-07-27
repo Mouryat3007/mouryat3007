@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
     </tr>
     <tr>
       <!-- <td>
