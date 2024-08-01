@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 </a> 
 </p>
 
-Thank you for visiting my profile! Let's innovate, collaborate, and make the digital world a better place. 🚀
+Thank you for visiting my Profile! Let's Innovate, Collaborate, and make the Digital World a better place. 🚀
