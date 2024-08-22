@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mouryat3007&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
+## Activity On GitHub
 
+<p align="center">
+  <a href="https://github.com/mouryat3007">      
+<img title="stats" alt="streak" src="https://streak-stats.demolab.com/?user=mouryat3007&theme=dark"/>
+</a> 
+</p>
 
 Thank you for visiting my Profile! Let's Innovate, Collaborate, and make the Digital World a better place. 🚀
