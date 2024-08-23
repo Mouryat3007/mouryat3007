@@ -59,9 +59,7 @@ Here are some ideas to get you started:
 ## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/mouryat3007">      
-<img title="stats" alt="streak" src="https://streak-stats.demolab.com/?user=mouryat3007&theme=dark"/>
-</a> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mouryat3007&theme=one-dark-pro" alt="GitHub Streak" /></a> 
 </p>
 
 Thank you for visiting my Profile! Let's Innovate, Collaborate, and make the Digital World a better place. 🚀
